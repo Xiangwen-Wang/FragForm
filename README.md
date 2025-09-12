@@ -39,21 +39,23 @@ FragForm is a fragment-attribution and composition-aware deep learning framework
 ```bash
 git clone https://github.com/your-username/FragForm.git
 cd FragForm
+```bash
 
 ### 2. Create environment
 We recommend Python 3.9+ with PyTorch installed.
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-
+```bash
 ### 3. Train the model
 ```bash
 python model/train_randomdiv.py
-
+```bash
 ### 4. Evaluate on test set
 ```bash
 python model/evaluate.py
-
+```bash
 ### 5. Attribution analysis
 ```bash
 python model/analyze.py
+```bash
