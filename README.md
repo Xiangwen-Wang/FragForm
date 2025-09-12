@@ -7,7 +7,7 @@ FragForm is a fragment-attribution and composition-aware deep learning framework
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - **`model/`**  
   Contains all model code and training scripts.  
